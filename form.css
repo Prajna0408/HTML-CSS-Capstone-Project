@@ -1,0 +1,28 @@
+body {
+text-align: center;
+background-color: black;
+color:white;
+border: 40px solid teal;
+border-top: 0px;
+margin: 0px;
+font-family: "Epunda Slab", serif;
+font-style: normal;
+}
+
+p {
+padding-right: 30%;
+padding-left: 30%;
+padding-bottom: 0px;
+}
+
+form {
+font-size: 1.2em;
+}
+
+#sub {
+background-color: #e38378;
+border-radius: 20px;
+height: 40px;
+margin-top: 10px;
+margin-bottom: 5px;
+}
